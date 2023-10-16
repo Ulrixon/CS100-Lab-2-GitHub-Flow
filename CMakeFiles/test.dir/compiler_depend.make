@@ -168,6 +168,7 @@ CMakeFiles/test.dir/test.cpp.o: test.cpp \
   /usr/include/c++/8/bits/ostream.tcc \
   /usr/include/c++/8/istream \
   /usr/include/c++/8/bits/istream.tcc \
+  c-count.h \
   googletest/googletest/include/gtest/gtest.h \
   /usr/include/c++/8/cstddef \
   /usr/include/c++/8/limits \
@@ -718,6 +719,8 @@ googletest/googletest/include/gtest/internal/custom/gtest-port.h:
 /usr/include/bits/siginfo-arch.h:
 
 /usr/include/asm-generic/int-ll64.h:
+
+c-count.h:
 
 /usr/include/bits/wchar.h:
 
